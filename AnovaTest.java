@@ -3,6 +3,7 @@ package stats;
 
 /*
  *  test data taken from a youtube video anova excel tutorial
+ *  https://www.youtube.com/watch?v=-yQb_ZJnFXw
  */
 public class AnovaTest {
 	private static Anova anova = new Anova(); 
