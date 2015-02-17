@@ -44,7 +44,7 @@ public class AnovaMain {
 		
 		double criticalNumber = anova.getCriticalNumber();
 
-		String result = "The null hypothesis is supported! There no especial difference in these groups. ";
+		String result = "The null hypothesis is supported! There is no especial difference in these groups. ";
 		
 		if ( f_score > criticalNumber) {
 			result = "The null hypothesis is rejected! These groups are different."; 
