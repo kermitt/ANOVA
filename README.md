@@ -5,4 +5,4 @@ The core logic is in Anova.java
 
 AnovaMain.java shows how to use this.
 
-
+These are in a package named 'stats'
